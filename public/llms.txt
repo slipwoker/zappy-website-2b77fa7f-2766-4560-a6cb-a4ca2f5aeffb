@@ -1,0 +1,55 @@
+# שילת פרויקטים חכמים — Generative Engine Optimization Map
+
+> A טכנולוגיה חכמה ותאורה business.
+
+---
+
+## Pages
+
+### Home
+https://-2b77fa7f.zappy5.app
+
+### Solutions
+https://-2b77fa7f.zappy5.app/solutions
+
+### About
+https://-2b77fa7f.zappy5.app/about
+
+### Contact
+https://-2b77fa7f.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://-2b77fa7f.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-2b77fa7f.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-2b77fa7f.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About שילת פרויקטים חכמים
+שילת פרויקטים חכמים is a business in the טכנולוגיה חכמה ותאורה industry.
+
+## Target Audience
+- מנהלי משרדים בהייטק
+- בעלי מסעדות המחפשים חדשנות
+- אדריכלים ומעצבי פנים
+
+## Industry
+טכנולוגיה חכמה ותאורה
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-2b77fa7f.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-2b77fa7f.zappy5.app/robots.txt
