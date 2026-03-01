@@ -1,6 +1,4 @@
-# שילת פרויקטים חכמים — Generative Engine Optimization Map
-
-> A טכנולוגיה חכמה ותאורה business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -36,17 +34,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About שילת פרויקטים חכמים
-שילת פרויקטים חכמים is a business in the טכנולוגיה חכמה ותאורה industry.
-
-## Target Audience
-- מנהלי משרדים בהייטק
-- בעלי מסעדות המחפשים חדשנות
-- אדריכלים ומעצבי פנים
-
-## Industry
-טכנולוגיה חכמה ותאורה
-
+## About Business
 ---
 
 # Additional Resources
